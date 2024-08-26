@@ -1,2 +1,2 @@
-my programming language is Kotlin
-i am learn very fast
+function parameter
+information can be passed to function as parameter.
